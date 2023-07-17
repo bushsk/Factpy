@@ -1,5 +1,5 @@
 num = 10
-factorial = 2
+factorial = 3
 if num < 0:    
    print(" Factorial does not exist for negative numbers")    
 elif num == 0:    
